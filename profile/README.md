@@ -1,7 +1,8 @@
 # CHAO AI Lab （面向开放式智能体智能的协同混合架构实验室）
 
 
-### **About CHAO-AI Lab**
+**Language / 语言切换**: [English](./README.md) | [中文](./README_ZH.md)
+
 **CHAO-AI Lab** stands for **Collaborative Hybrid Architectures for Open-ended Agentic Intelligence Lab**, led by Prof. WangChao. We study how large language models, intelligent agents, retrieval-augmented systems, natural language processing, and time-series data analytics can be combined into **collaborative hybrid architectures** that support **open-ended agentic intelligence** in complex, real-world environments.
 
 Our research is grounded in a simple belief: the next generation of AI systems will not come from a single model or a single algorithm, but from the careful design of **architectures** in which models, tools, data, knowledge, humans, and multiple agents collaborate. We aim to build AI systems that can understand language, retrieve and integrate knowledge, analyze heterogeneous data, reason over long horizons, interact with humans and other agents, and act reliably on open-ended tasks.
