@@ -1,12 +1,12 @@
 <div align="center">
   <img src="./LOGO-13.png" alt="Organization Logo" width="400" height="400" />
-
-  <h1>CHAO AI Lab</h1>
-  <h1>面向开放式智能体智能的协同混合架构实验室</h1>
+  <h1>面向开放式智能体智能的协同混合架构实验室（CHAO-AI Lab）</h1>
+  
+  **Language / 语言切换**: [English](./README.md) | [中文](./README_ZH.md)
 </div>
 
 
-**Language / 语言切换**: [English](./README.md) | [中文](./README_ZH.md)
+
 
 
 **CHAO-AI Lab**，全称为 **Collaborative Hybrid Architectures for Open-ended Agentic Intelligence Lab**，中文译为**面向开放式智能体智能的协同混合架构实验室**，由 WangChao 教授领导。实验室聚焦大语言模型、智能体系统、多智能体交互、检索增强、自然语言处理与时序数据分析等方向，致力于构建能够在复杂真实场景中**协同工作、混合组合、开放求解**的新一代 AI 系统。
@@ -57,9 +57,7 @@
 
 
 
-### **关键目标**
-
-**CHAO-AI Lab — 面向开放式智能体智能的协同混合架构。**
+## **关键目标**
 
 让模型、智能体、工具、数据与人类共同构建下一代 AI 系统。
 
