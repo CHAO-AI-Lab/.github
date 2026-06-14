@@ -1,4 +1,9 @@
-# 面向开放式智能体智能的协同混合架构实验室 （CHAO-AI Lab）
+<div align="center">
+  <img src="./LOGO-13.png" alt="Organization Logo" width="400" height="400" />
+
+  <h1>CHAO AI Lab</h1>
+  <h1>面向开放式智能体智能的协同混合架构实验室</h1>
+</div>
 
 
 **Language / 语言切换**: [English](./README.md) | [中文](./README_ZH.md)
