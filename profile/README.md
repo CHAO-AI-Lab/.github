@@ -2,8 +2,7 @@
 <div align="center">
   <img src="./LOGO-13.png" alt="Organization Logo" width="400" height="400" />
 
-  <h1>CHAO AI Lab</h1>
-  <h1>Collaborative Hybrid Architectures for Open-ended Agentic Intelligence Lab</h1>
+  <h1>Collaborative Hybrid Architectures for Open-ended <br />Agentic Intelligence Lab (CHAO AI Lab)</h1>
 </div>
 
 
@@ -14,7 +13,7 @@
 Our research is grounded in a simple belief: the next generation of AI systems will not come from a single model or a single algorithm, but from the careful design of **architectures** in which models, tools, data, knowledge, humans, and multiple agents collaborate. We aim to build AI systems that can understand language, retrieve and integrate knowledge, analyze heterogeneous data, reason over long horizons, interact with humans and other agents, and act reliably on open-ended tasks.
 
 
-### **Research Vision**
+## **Research Vision**
 
 We organize our research around three principles that together form the name **CHAO-AI**:
 
@@ -26,7 +25,7 @@ We organize our research around three principles that together form the name **C
 
 
 
-### **Research Areas**
+## **Research Areas**
 
 **Large Language Models and Foundation Reasoning.** Reasoning, planning, long-context understanding, knowledge integration, and capability evaluation of LLMs in complex tasks.
 
@@ -44,7 +43,7 @@ We organize our research around three principles that together form the name **C
 
 
 
-### **Core Questions We Care About**
+## **Core Questions We Care About**
 
 How can large language models be turned into reliable, long-horizon agents that act safely in open-ended environments?
 
@@ -58,7 +57,7 @@ How can we build agents that genuinely understand temporal and analytical data, 
 
 
 
-### **One-line Goal**
+## **One-line Goal**
 
 **CHAO-AI Lab — Collaborative Hybrid Architectures for Open-ended Agentic Intelligence.**
 
